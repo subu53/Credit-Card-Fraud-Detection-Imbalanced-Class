@@ -65,27 +65,26 @@ This project demonstrates:
 - Ability to communicate model trade-offs for business-critical decisions
 - Readiness to build, test, and deploy data-driven solutions in real-world environments
 
----
 
 ## 📂 Repository Structure
 
 ├── creditcards.csv
 ├── Credit Card Fraud Detection Imbalanced Class.ipyb
-└── README.md # Project overview
+└── README.md 
 
-
+# Project overview
 
 ## 📎 Dataset
 
 [🔗 Kaggle Credit Card Fraud Dataset](https://www.kaggle.com/mlg-ulb/creditcardfraud)
 
----
+
 
 ## 🙋‍♂️ Author
 
 Sammy S. Mutuku  
 📍 Nairobi, Kenya | 🌐 [LinkedIn](https://www.linkedin.com/in/samsubu/) | 💻 [GitHub](https://github.com/subu53)  
-📧 sammysubu@gmail.com
+📧 subusam5@gmail.com
 
 ## 🧠 Next Steps
 
