@@ -57,7 +57,7 @@ This project explores and compares multiple machine learning models to identify 
 
 ---
 
-## 💼 Why This Project Matters (For Recruiters)
+## 💼 Why This Project Matters 
 
 This project demonstrates:
 - Proficiency in Python and machine learning workflows
