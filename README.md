@@ -79,7 +79,6 @@ This project demonstrates:
 [🔗 Kaggle Credit Card Fraud Dataset](https://www.kaggle.com/mlg-ulb/creditcardfraud)
 
 
-
 ## 🙋‍♂️ Author
 
 Sammy S. Mutuku  
